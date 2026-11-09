@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS — AI Browser Agent",
+  "description": "Official marketing website for NEXUS, an intelligent AI-powered Chrome browser extension with Bring Your Own Key (BYOK) architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
